@@ -1,4 +1,9 @@
 #!/usr/bin/env python3
+"""
+Creator: Arizona Edwards
+Created: 2024-05-14
+"""
+
 import argparse
 import io
 import os

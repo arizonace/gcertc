@@ -1,4 +1,7 @@
 """
+Creator: Arizona Edwards
+Created: 2024-06-17
+
 Configuration settings for the certificate chain tool.
 """
 

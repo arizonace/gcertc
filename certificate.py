@@ -1,3 +1,8 @@
+"""
+Creator: Arizona Edwards
+Created: 2024-05-14
+"""
+
 import os
 import sys
 from typing import ClassVar
